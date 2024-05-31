@@ -1,0 +1,12 @@
+.env
+/jarvisenv
+contacts.csv
+jarvis.db
+/engine/__pycache__
+/engine/cookies.json
+/engine/test.py
+/user_authentication/__pycache__
+/user_authentication/samples/
+/user_authentication/trainer/
+/www/assets/photos
+__pycache__
