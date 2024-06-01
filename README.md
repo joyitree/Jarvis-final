@@ -88,30 +88,19 @@ Granting Access to Application
 ## Diagrams
 
 Flowchart
-![Flowchart](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ee1216eb-d205-45cb-8ae9-739e4c4ef153)
+![Flowchart](https://github.com/joyitree/Jarvis-final/assets/93481212/6007676e-8efd-4e55-b5ed-622a3a1b0f7b)
 
 DFD
-![DFD LEVEL 0](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/18ba369a-20de-4fe9-a04a-c32a4441869f)
+![DFD LEVEL 0](https://github.com/joyitree/Jarvis-final/assets/93481212/70727780-5bfc-4244-ba83-0e6b33218bc2)
 
-![DFD LEVEL 1](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/711d6675-a71f-467f-a7f9-c508b2809d0b)
+![DFD LEVEL 1](https://github.com/joyitree/Jarvis-final/assets/93481212/2843e474-729c-4197-838d-f143234241ff)
 
-![DFD LEVEL 2](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/dbf92c11-b6e1-4e6a-b248-7af1653e8e56)
+![DFD LEVEL 2](https://github.com/joyitree/Jarvis-final/assets/93481212/4da55821-c508-4861-a51f-919473752e8e)
+
 
 Use Case
 ![use case diagram](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/6e8de236-aa03-46b8-be41-714d9444e1f0)
 
-Flowchart
-![Flowchart](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ee1216eb-d205-45cb-8ae9-739e4c4ef153)
-
-DFD
-![DFD LEVEL 0](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/18ba369a-20de-4fe9-a04a-c32a4441869f)
-
-![DFD LEVEL 1](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/711d6675-a71f-467f-a7f9-c508b2809d0b)
-
-![DFD LEVEL 2](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/dbf92c11-b6e1-4e6a-b248-7af1653e8e56)
-
-Use Case
-![use case diagram](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/6e8de236-aa03-46b8-be41-714d9444e1f0)
 ## Project Directory Structure 🌲
 
 ```
