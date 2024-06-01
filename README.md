@@ -34,26 +34,27 @@ Currently I've implemented:
 
     1.  Face Recognition for authentication
     2. 	WhatsApp automation
-    3.	 Email generation & sending
-    4.	 System app opening & closing automation
-    5.	 Website opening and closing automation
-    6.	 YouTube Search automation
-    7.	 Wikipedia search
-    8.	 Translation
-    9.	 Media playback (using web automation)
-    10.	 Weather forecast
-    11.	 Trending movies suggestion
-    12.	 Current headlines
-    13.	 Take note & remember it
-    14.	 Take screenshot 
-    15.	 LLM model integration
-    16.	 Drawing using turtle
-    17.	 Internet speed check
-    18.	 Computer performance stats
-    19.	 Current day & date
-    20.	 Current time
-    21.  Battery power check
-    22.  location detection
+    3.	Email generation & sending
+    4.	System app opening & closing automation
+    5.	Website opening and closing automation
+    6.	YouTube Search automation
+    7.	Wikipedia search
+    8.	Translation
+    9.	Media playback (using web automation)
+    10.	Weather forecast
+    11.	Trending movies suggestion
+    12.	Current headlines
+    13.	Take note & remember it
+    14.	Take screenshot 
+    15.	LLM model integration
+    16.	Drawing using turtle
+    17.	Internet speed check
+    18.	Computer performance stats
+    19.	Current day & date
+    20.	Current time
+    21. Battery power check
+    22. location detection
+    23. system volume control
     
 ## Visuals 📸
 
