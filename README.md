@@ -79,10 +79,10 @@ Granting Access to Application
 ![user verification](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/cc37d2f8-ef63-4207-9daf-53363f92771e)
 
 ## Architecture
-![Architecture](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/1b20eef5-b1c6-45c5-9e3c-6dc05f77ee72)
+![architecture](https://github.com/joyitree/Jarvis-final/assets/93481212/e5314371-d7bb-41f3-bde4-78bd21135a17)
 
 ## Tech Stack
-![tech stack](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/9e07c9aa-3ea8-4599-b564-3caf65b8a3b9)
+![tech stack](https://github.com/joyitree/Jarvis-final/assets/93481212/97aae286-34de-4473-a40a-1f3a36f03832)
 
 
 ## Diagrams
