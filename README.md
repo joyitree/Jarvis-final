@@ -72,7 +72,8 @@ Chat History
 ## User Authentication
 
 Face Recognition
-![race recog](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/4ac12015-c86b-4046-b453-b187387a0be2)
+![face recognition](https://github.com/joyitree/Jarvis-final/assets/93481212/3cfa8923-1066-4ed8-8b19-dbc2b38277da)
+
 
 Granting Access to Application 
 ![user verification](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/cc37d2f8-ef63-4207-9daf-53363f92771e)
