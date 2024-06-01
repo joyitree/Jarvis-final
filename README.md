@@ -101,6 +101,13 @@ DFD
 Use Case
 ![use case diagram](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/6e8de236-aa03-46b8-be41-714d9444e1f0)
 
+
+Sequence Diagram for query response
+![sequence diagram for query response](https://github.com/joyitree/Jarvis-final/assets/93481212/6bb3ec43-c040-4411-bd6f-f2f21aa85daf)
+
+sequence diagram for task execution
+![sequence diagram for task execution](https://github.com/joyitree/Jarvis-final/assets/93481212/eb0260e1-0d24-4d67-b9cd-ea86c1fc8915)
+
 ## Project Directory Structure 🌲
 
 ```
