@@ -368,6 +368,14 @@ def allCommands(message=1):
                speak(f"i am not sure, but i think the city is {city}, the region is {region} and the country name start with {country}")
             except Exception as e:
                 speak("sorry, due to network issue i can't get the information")
+              
+        #volume control
+        elif "volume up" in query:
+            pyautogui.press("volumeup")
+        elif "volume down" in query:
+            pyautogui.press("volumedown")
+        elif "volume mute" in query or "mute" in query:
+            pyautogui.press("volumemute") 
         
 
         else:
