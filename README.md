@@ -76,7 +76,7 @@ Face Recognition
 
 
 Granting Access to Application 
-![user verification](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/cc37d2f8-ef63-4207-9daf-53363f92771e)
+![authentication bar](https://github.com/joyitree/Jarvis-final/assets/93481212/74261d27-93cd-485b-87e2-af9f8aed686c)
 
 ## Architecture
 ![architecture](https://github.com/joyitree/Jarvis-final/assets/93481212/e5314371-d7bb-41f3-bde4-78bd21135a17)
