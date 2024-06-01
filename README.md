@@ -221,7 +221,8 @@ sequence diagram for task execution
 
     ```
 - ### Train model for face recognition
-    ![face recognition](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/ff8ee175-7a2f-4a64-a1e2-aa31eb1a15f0)
+   ![train model](https://github.com/joyitree/Jarvis-final/assets/93481212/395a5d84-b5fc-46ec-a7ea-83aab071a47f)
+
     ```
     Go to user_authentication folder:
         Create folder: samples & trainer
