@@ -62,10 +62,11 @@ Main Hood
 ![ui3](https://github.com/joyitree/Jarvis-final/assets/93481212/ce3dfa70-f501-4d0e-ad53-cd7113482572)
 
 Listening & Output Display
-![siri wave](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/afdc13e9-1d0e-45f8-826c-f5b1cedb1121)
+![ui2](https://github.com/joyitree/Jarvis-final/assets/93481212/72a190fd-aae4-494a-bd4f-ad5a9be18e7e)
+
 
 Chat History
-![chat history](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/b68eaf8e-74f5-4571-a152-4b0e996ad6c6)
+![ui1](https://github.com/joyitree/Jarvis-final/assets/93481212/131a9f30-b96d-4b6a-bdd3-c3bbcd9f0b90)
 
 
 ## User Authentication
