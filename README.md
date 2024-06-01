@@ -221,7 +221,7 @@ sequence diagram for task execution
 
     ```
 - ### Train model for face recognition
-   ![train model](https://github.com/joyitree/Jarvis-final/assets/93481212/395a5d84-b5fc-46ec-a7ea-83aab071a47f)
+     ![train model](https://github.com/joyitree/Jarvis-final/assets/93481212/395a5d84-b5fc-46ec-a7ea-83aab071a47f)
 
     ```
     Go to user_authentication folder:
