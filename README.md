@@ -59,7 +59,7 @@ Currently I've implemented:
 
 ## UI
 Main Hood
-![main hood](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/4b15972e-eafb-4748-ab7c-d1dc75261176)
+![ui3](https://github.com/joyitree/Jarvis-final/assets/93481212/ce3dfa70-f501-4d0e-ad53-cd7113482572)
 
 Listening & Output Display
 ![siri wave](https://github.com/bodhisattwaMondal/Jarvis/assets/123143501/afdc13e9-1d0e-45f8-826c-f5b1cedb1121)
